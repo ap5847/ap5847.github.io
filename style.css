@@ -113,6 +113,9 @@ body{
   align-items: center;
   justify-content: space-between;
 }
+.footer button .lab3{
+  color: #blue
+}
 .footer button{
   padding: 6px 10px;
   border-radius: 3px;
